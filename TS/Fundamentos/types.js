@@ -9,9 +9,7 @@ console.log (preco);
 console.log (disponivel);
 console.log (typeof disponivel);
 */
-
 //EXERCICIO 2 - Tipos básico porem mais refinado
-
 /*
 let cargo: string = 'funcionario';
 let salario: number = 5000;
@@ -31,6 +29,3 @@ else {
     console.log ('Acesso negado!');
 }
 */
-
-
-
