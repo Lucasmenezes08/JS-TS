@@ -35,3 +35,5 @@ palavra.split('').forEach(letra => {
 
 console.log(frequencia); 
 */
+
+
